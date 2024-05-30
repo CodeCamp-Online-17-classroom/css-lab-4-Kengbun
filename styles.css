@@ -8,3 +8,62 @@
  }
 
 /* write code here */
+.card-container {
+  width: 300px;
+  /* background-color: aqua; */
+  border-radius: 10px;
+  margin: 40px 60px;
+  border: 1px solid black;
+  height: 380px;
+
+}
+
+.card {}
+
+.close {
+  border-radius: 100px;
+  /* border: 1px solid blue; */
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  /* background-color: red; */
+  position: relative;
+  top: -10px;
+  left: -10px;
+  font-size: 30px;
+  color: grey;
+
+}
+
+.badge {
+  border-radius: 100px;
+  /* border: 1px solid blue; */
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  background-color: red;
+  position: relative;
+  top: -70px;
+  left: 270px;
+}
+
+.number {
+  color: white;
+  padding-top: 10px;
+  font-size: 20px;
+}
+
+img {
+  top: -80px;
+  width: 100%;
+  position: relative;
+  /* text-decoration: underline; */
+  border-bottom: 1px solid black;
+}
+
+h4 {
+  text-align: center;
+  position: relative;
+  bottom: 115px;
+  font-size: 30px;
+}
